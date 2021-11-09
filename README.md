@@ -1,6 +1,5 @@
 ## 리팩터링2 스터디
-![image](https://user-images.githubusercontent.com/53952734/140840172-50aac4d8-4037-4e7f-b338-fcab0dc0b5b9.png)
-
+![스크린샷 2021-11-09 09 45 46](https://user-images.githubusercontent.com/53952734/140841291-00338bc4-f823-4b2d-a61e-7abdb25d78b7.png)
 
 ### 진행방식
 - 매주 한 챕터씩 정리
