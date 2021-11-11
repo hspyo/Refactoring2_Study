@@ -29,9 +29,10 @@
 
 1. #### 리팩터링 첫 번째 예시
 
-- 한승표:
+- 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/01.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81:%EC%B2%AB%EB%B2%88%EC%A7%B8%20%EC%98%88%EC%8B%9C/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문<a>
 - 백승일: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/01.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81:%EC%B2%AB%EB%B2%88%EC%A7%B8%20%EC%98%88%EC%8B%9C/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
 
+#### 2주차: 
 2. #### 리펙터링 원칙
 
 - 한승표:
