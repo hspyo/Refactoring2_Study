@@ -56,7 +56,7 @@
   
 #### 6주차: 2021-12-14 ~ 20 
 6. #### 기본적인 리팩터링
-  - 한승표: <a herf="https://github.com/hspyo/Refactoring2_Study/blob/main/06.%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/%ED%95%9C%EC%8A%B9%ED%91%9C.md">소감문</a>
+  - 한승표: <a href="https://github.com/hspyo/Refactoring2_Study/blob/main/06.%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/%ED%95%9C%EC%8A%B9%ED%91%9C.md">소감문</a>
   - 백승일:
 
 #### 7주차: 2021-12-21 ~ 27
