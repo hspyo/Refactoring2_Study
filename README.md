@@ -16,7 +16,7 @@
 4. [테스트 구축하기](#테스트-구축하기)
 5. [리팩터링 카탈로그 보는 법](#리팩터링-카탈로그-보는-법)
 6. [기본적인 리팩터링](#기본적인-리팩터링)
-7. 캡슐화
+7. [캡슐화](#캡슐화)
 8. 기능 이동
 9. 데이터 조직화
 10. 조건부 로직 간소화
@@ -49,12 +49,17 @@
   - 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/04.%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/%ED%95%9C%EC%8A%B9%ED%91%9C.md' >소감문</a>
   - 백승일:
 
-#### 5주차: 2021-12-07 ~ 12-13
+#### 5주차: 2021-12-07 ~ 13
 5. #### 리팩터링 카탈로그 보는 법
   - 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/05.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%20%EB%B3%B4%EB%8A%94%20%EB%B2%95/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문</a>
   - 백승일:
   
-#### 6주차: 2021-12-14 ~ 12-20
+#### 6주차: 2021-12-14 ~ 20 
 6. #### 기본적인 리팩터링
+  - 한승표: <a herf="https://github.com/hspyo/Refactoring2_Study/blob/main/06.%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/%ED%95%9C%EC%8A%B9%ED%91%9C.md">소감문</a>
+  - 백승일:
+
+#### 7주차: 2021-12-21 ~ 27
+7. #### 캡슐화
   - 한승표:
   - 백승일:
