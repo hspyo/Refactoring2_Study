@@ -33,33 +33,43 @@
 - 백승일: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/01.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81:%EC%B2%AB%EB%B2%88%EC%A7%B8%20%EC%98%88%EC%8B%9C/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
 
 #### 2주차: 2021-11-16 ~ 22
+
 2. #### 리팩터링 원칙
 
 - 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/02.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%EC%9B%90%EC%B9%99/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문<a>
 - 백승일: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/02.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%EC%9B%90%EC%B9%99/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
 
-  
 #### 3주차: 2021-11-23 ~ 29
+
 3. #### 코드에서 나는 악취
-  - 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/03.%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EB%82%98%EB%8A%94%20%EC%95%85%EC%B7%A8/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문</a>
-- 백승일:
+
+- 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/03.%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EB%82%98%EB%8A%94%20%EC%95%85%EC%B7%A8/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문</a>
+- 백승일: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/03.%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C%20%EB%82%98%EB%8A%94%20%EC%95%85%EC%B7%A8/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
 
 #### 4주차: 2021-11-30 ~ 12-06
+
 4. #### 테스트 구축하기
-  - 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/04.%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/%ED%95%9C%EC%8A%B9%ED%91%9C.md' >소감문</a>
-  - 백승일:
+
+- 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/04.%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/%ED%95%9C%EC%8A%B9%ED%91%9C.md' >소감문</a>
+- 백승일: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/04.%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
 
 #### 5주차: 2021-12-07 ~ 13
+
 5. #### 리팩터링 카탈로그 보는 법
-  - 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/05.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%20%EB%B3%B4%EB%8A%94%20%EB%B2%95/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문</a>
-  - 백승일:
-  
-#### 6주차: 2021-12-14 ~ 20 
+
+- 한승표: <a href='https://github.com/hspyo/Refactoring2_Study/blob/main/05.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%20%EB%B3%B4%EB%8A%94%20%EB%B2%95/%ED%95%9C%EC%8A%B9%ED%91%9C.md'>소감문</a>
+- 백승일:<a href='https://github.com/hspyo/Refactoring2_Study/blob/main/05.%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%20%EB%B3%B4%EB%8A%94%20%EB%B2%95/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
+
+#### 6주차: 2021-12-14 ~ 20
+
 6. #### 기본적인 리팩터링
-  - 한승표: <a href="https://github.com/hspyo/Refactoring2_Study/blob/main/06.%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/%ED%95%9C%EC%8A%B9%ED%91%9C.md">소감문</a>
-  - 백승일:
+
+- 한승표: <a href="https://github.com/hspyo/Refactoring2_Study/blob/main/06.%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/%ED%95%9C%EC%8A%B9%ED%91%9C.md">소감문</a>
+- 백승일:<a href='https://github.com/hspyo/Refactoring2_Study/blob/main/06.%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/%EB%B0%B1%EC%8A%B9%EC%9D%BC.md'>소감문</a>
 
 #### 7주차: 2021-12-21 ~ 27
+
 7. #### 캡슐화
-  - 한승표:
-  - 백승일:
+
+- 한승표:
+- 백승일:
